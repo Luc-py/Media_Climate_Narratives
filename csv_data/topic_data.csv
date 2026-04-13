@@ -1,0 +1,15 @@
+topic_name,topic_top_terms,topic_id,article_sentiment,headline_sentiment,topic_count
+UK Climate & Energy Policy,"['uk', 'climate', 'finance', 'energy', 'government', 'countries', 'said', 'year']",0,2.5983275630252103,-3.149024537815126,12096
+COP30,"['climate', 'countries', 'cop30', 'cop', 'said', 'fossil', 'world', 'brazil']",1,1.911089579831933,-2.4602697478991593,10624
+Trump - Environmental Protection Agency Rollbacks,"['epa', 'climate', 'finding', 'endangerment', 'court', 'said', 'air', 'trump']",3,1.1623707563025212,-1.2048712605042018,5050
+UK Food Security,"['food', 'farmers', 'uk', 'climate', 'year', 'prices', 'crop', 'said']",5,0.687412100840336,-2.090153613445378,9271
+Climate in Film & Literature,"['film', 'novel', 'films', 'helm', 'people', 'climate', 'world', 'says']",6,0.5108366386554621,-1.7920326050420166,6366
+Arctic Ice Melt & Sea Level Rise,"['ice', 'sea', 'heat', 'arctic', 'water', 'record', 'temperatures', 'climate']",9,1.1660838655462185,-2.7362354621848737,9814
+Climate News Australia,"['climate', 'news', 'said', 'science', 'change', 'corp', 'energy', 'australia']",11,1.8246657142857146,-1.5748361344537818,7598
+Climate Law from the International Court of Justice,"['climate', 'icj', 'court', 'states', 'pacific', 'legal', 'opinion', 'international']",12,0.8439863865546219,-0.11941915966386554,1568
+Australia 2035 Emissions Targets,"['target', 'australia', 'government', 'climate', '2035', 'emissions', 'energy', 'australian']",13,0.8464141176470589,-1.5461601680672268,4933
+Wildfires,"['forest', 'fires', 'forests', 'trees', 'wildfires', 'simard', 'lightning', 'burned']",15,0.2084852100840335,-1.3087339495798318,5513
+Coral Reefs & Sea Turtles,"['sea', 'says', 'reef', 'turtles', 'surf', 'reefs', 'miami', 'south']",16,1.1473270588235294,-0.27881630252100836,1740
+US Climate Policy,"['trump', 'nlrb', 'climate', 'said', 'world', 'party', 'biden', 'energy']",17,2.118243865546218,-2.7097825210084032,10576
+Australian Liberal Coalition & Net Zero,"['coalition', 'australia', 'net', 'zero', 'climate', 'liberal', 'party', 'change']",18,0.7619478991596639,-1.0963035294117647,5528
+Extreme Weather Events,"['people', 'said', 'climate', 'water', 'storms', 'office', 'hurricane', 'home']",20,2.532369075630252,-1.7770445378151256,7478
